@@ -1,0 +1,9 @@
+SSH command:
+ssh -o IPQoS=throughput -o ServerAliveInterval=5 -o ServerAliveCountMax=3 root@192.168.8.1
+# Replace the ip address with your drone address.
+
+Password:
+oelinux123 (default)
+
+VOXL wifi Passworld (default):
+1234567890
