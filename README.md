@@ -9,8 +9,14 @@ Use QGcontrol to do calibaration and RC control configuration. VOXL Modal Portal
 
 To enter the VOXL embedded system Linux, connect the drone USB connector J8 with your PC:
 
+############
+
 adb devices
 
 adb shell
 
 bash
+
+############
+
+Or you can connect to the VOXL-Test wifi, using m500 shh info to enter the onboard system with the of drone's ip address.
