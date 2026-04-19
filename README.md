@@ -19,4 +19,4 @@ bash
 
 ############
 
-Or you can connect to the VOXL-Test wifi, using m500 shh info to enter the onboard system with the of drone's ip address.
+Or you can connect to the VOXL-Test wifi, using m500 ssh info to enter the onboard system with the of drone's ip address.
