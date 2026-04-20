@@ -22,3 +22,7 @@ bash
 Or you can connect to the VOXL-Test wifi, using m500 ssh info to enter the onboard system with the of drone's ip address.
 
 VIO and Camera stream is not fully open defaultly.
+
+
+
+![Demo screenshot](ROS Test/20260416_180852770_iOS.jpg)
